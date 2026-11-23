@@ -1,0 +1,32 @@
+Community Complaint Reporting Guidelines
+
+Residents can submit complaints about community
+problems such as water shortages, electricity
+outages, damaged roads, and waste management.
+
+A complaint should include:
+
+1. Category of the problem
+2. State and district
+3. Locality or affected area
+4. Detailed description
+5. Date and duration of the issue
+6. Supporting evidence if available
+
+Each submitted complaint should receive
+a unique complaint identification number.
+
+Complaint Status:
+
+Submitted - Complaint has been registered.
+
+Under Investigation - Complaint is being reviewed.
+
+Resolved - The responsible authority has addressed
+the reported problem.
+
+Verification should be completed before a complaint
+is treated as confirmed.
+
+AI-generated recommendations should support
+human decision-making rather than replace it.
